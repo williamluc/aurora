@@ -6,6 +6,8 @@ public class helloworld {
 		System.out.println("ganti ah");
 
 		System.out.println("switch loh");
+		
+		System.out.println("switch wil loh");
 	}
 
 }
