@@ -10,7 +10,7 @@ public class helloworld {
 
 		System.out.println("test ah");
 		System.out.println("switch wil loh");
-		
+		System.out.println("switch wil loh (2)");
 	
 	}
 
