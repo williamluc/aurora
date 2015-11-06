@@ -16,6 +16,8 @@ public class helloworld {
 		
 		System.out.println("Friday Session 2 Henri ");
 		
+		System.out.println("Friday Session 2 Henri 2");
+		
 	}
 
 }
