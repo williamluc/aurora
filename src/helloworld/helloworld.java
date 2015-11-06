@@ -12,6 +12,8 @@ public class helloworld {
 	
 		System.out.println("Friday Session 2 ");
 		
+		System.out.println("HEY, HEY, EVERYBODY!! I WAS HERE!");
+		
 	}
 
 }
