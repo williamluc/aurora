@@ -6,6 +6,8 @@ public class helloworld {
 		System.out.println("Friday Session");
 		System.out.println("test ");
 	
+		System.out.println("Friday Session 2 ");
+		
 	}
 
 }
