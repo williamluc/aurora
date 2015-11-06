@@ -22,6 +22,8 @@ public class helloworld {
 		
 		System.out.println("Friday Session 2 Henri 2");
 		
+		System.out.println("Friday Session 2 Henri 3");
+		
 	}
 
 }
