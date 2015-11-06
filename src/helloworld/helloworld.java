@@ -13,6 +13,8 @@ public class helloworld {
 		System.out.println("switch wil loh");
 		System.out.println("switch wil loh (2)");
 		System.out.println("switch wil loh (3)");
+		
+		System.out.println("Friday Session");
 	
 	}
 
