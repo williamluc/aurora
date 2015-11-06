@@ -14,6 +14,8 @@ public class helloworld {
 		
 		System.out.println("HEY, HEY, EVERYBODY!! I WAS HERE!");
 		
+		System.out.println("SECOND ONES");
+		
 	}
 
 }
