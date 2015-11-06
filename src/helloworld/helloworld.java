@@ -14,6 +14,10 @@ public class helloworld {
 	
 		System.out.println("Friday Session 2 ");
 		
+		System.out.println("HEY, HEY, EVERYBODY!! I WAS HERE!");
+		
+		System.out.println("SECOND ONES");
+		
 		System.out.println("Friday Session 2 Henri ");
 		
 		System.out.println("Friday Session 2 Henri 2");
